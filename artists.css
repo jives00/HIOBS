@@ -1,0 +1,267 @@
+div.start {
+    position:relative;}
+
+div.babb {
+    position: absolute;
+    top: 0px;
+    left: 20px;}
+
+div.baker {
+    position: absolute;
+    top: 0px;
+    left: 310px;}
+
+div.beers {
+    position: absolute;
+    top: 0px;
+    left: 413px;}
+
+div.benoit {
+    position: absolute;
+    top: 0px;
+    left: 687px;}
+
+div.bourke {
+    position: absolute;
+    top: 194px;
+    left: 20px;}
+
+div.cady-above {
+    position: absolute;
+    top: 230px;
+    left: 413px;}
+
+div.cady-quarryabove {
+    position: absolute;
+    top: 230px;
+    left: 593px;}
+
+div.cady-quarryfragments {
+    position: absolute;
+    top: 230px;
+    left: 773px;}
+
+div.cady-quarrywall {
+    position: absolute;
+    top: 417px;
+    left: 20px;}
+
+div.corey {
+    position: absolute;
+    top: 417px;
+    left: 219px;}
+
+div.dodd {
+    position: absolute;
+    top: 417px;
+    left: 536px;}
+
+div.dragonette {
+    position: absolute;
+    top: 526px;
+    left: 536px;}
+
+div.goodbody {
+    position: absolute;
+    top: 526px;
+    left: 726px;}
+
+div.hill {
+    position: absolute;
+    top: 670px;
+    left: 20px;}
+
+div.hopkins {
+    position: absolute;
+    top: 670px;
+    left: 221px;}
+
+div.hoy-heart {
+    position: absolute;
+    top: 670px;
+    left: 499px;}
+
+div.hoy-clouds {
+    position: absolute;
+    top: 670px;
+    left: 727px;}
+
+div.kasper {
+    position: absolute;
+    top: 873px;
+    left: 20px;}
+
+div.kellog {
+    position: absolute;
+    top: 873px;
+    left: 221px;}
+
+div.kelly {
+    position: absolute;
+    top: 959px;
+    left: 499px;}
+
+div.lawson {
+    position: absolute;
+    top: 765px;
+    left: 727px;}
+
+div.leeives-franz {
+    position: absolute;
+    top: 1041px;
+    left: 20px;}
+
+div.leeives-otter {
+    position: absolute;
+    top: 1041px;
+    left: 287px;}
+
+div.lewis {
+    position: absolute;
+    top: 1183px;
+    left: 20px;}
+
+div.little {
+    position: absolute;
+    top: 1183px;
+    left: 413px;}
+
+div.nadeau {
+    position: absolute;
+    top: 1183px;
+    left: 673px;}
+
+div.obrien {
+    position: absolute;
+    top: 1312px;
+    left: 20px;}
+
+div.paffbargehead {
+    position: absolute;
+    top: 1312px;
+    left: 227px;}
+
+div.paffgibbons {
+    position: absolute;
+    top: 1371px;
+    left: 413px;}
+
+div.paffleft {
+    position: absolute;
+    top: 1371px;
+    left: 413px;}
+
+div.paffright {
+    position: absolute;
+    top: 1371px;
+    left: 673px;}
+
+div.pafftwo {
+    position: absolute;
+    top: 1453px;
+    left: 20px;}
+
+div.page {
+    position: absolute;
+    top: 1514px;
+    left: 413px;}
+
+div.parenteau {
+    position: absolute;
+    top: 1514px;
+    left: 656px;}
+
+div.perry {
+    position: absolute;
+    top: 1710px;
+    left: 20px;}
+
+div.perrytwo {
+    position: absolute;
+    top: 1710px;
+    left: 250px;}
+
+div.pinchbeck {
+    position: absolute;
+    top: 1710px;
+    left: 521px;}
+
+div.ralston {
+    position: absolute;
+    top: 1862px;
+    left: 20px;}
+
+div.renell {
+    position: absolute;
+    top: 1862px;
+    left: 276px;}
+
+div.santoro {
+    position: absolute;
+    top: 1862px;
+    left: 522px;}
+
+div.smith {
+    position: absolute;
+    top: 1862px;
+    left: 696px;}
+
+div.stjohn {
+    position: absolute;
+    top: 2029px;
+    left: 20px;}
+
+div.stone {
+    position: absolute;
+    top: 2029px;
+    left: 139px;}
+
+div.tenneson {
+    position: absolute;
+    top: 2029px;
+    left: 521px;}
+
+div.trenholm {
+    position: absolute;
+    top: 2029px;
+    left: 697px;}
+
+div.woodhull {
+    position: absolute;
+    top: 2151px;
+    left: 20px;}
+
+div.vankampenfrom {
+    position: absolute;
+    top: 2349px;
+    left: 20px;}
+
+div.vankampenlooking {
+    position: absolute;
+    top: 2349px;
+    left: 245px;
+    z-index:1}
+
+div.vankampens {
+    position: absolute;
+    top: 2489px;
+    left: 245px;
+    z-index:1}
+
+div.wyeth {
+    position: absolute;
+    top: 2283px;
+    left: 697px;
+    z-index:1}
+
+div.compass {
+    position: absolute;
+    top: 2416px;
+    left: 377px;
+    z-index:0;}
+
+div.bios {
+    position: absolute;
+    top: -100px;
+    left: 20px;
+    z-index:1;}
